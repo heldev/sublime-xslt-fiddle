@@ -1,0 +1,12 @@
+[
+	{
+		"id": "tools",
+		"children": [
+			{
+				"caption": "XSLT Fiddle",
+				"command": "xslt_fiddle_new_window",
+				"id": "xslt_fiddle"
+			}
+		]
+	}
+]

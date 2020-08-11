@@ -1,0 +1,6 @@
+[
+	{
+		"keys": ["ctrl+x"],
+		"command": "xslt_fiddle_new_window"
+	}
+]
